@@ -1,2 +1,2 @@
 
-{ "1": {"accountName":"Purchases","credit":"43000","debit":"60000"}, "2": {"accountName":"Sales","credit":"43000","debit":"60000"},  "3":{"accountName":"Accounts Recv", "credit": "43000", "debit": "60000"},  "4":{"accountName":"Inventory", "credit": "43000", "debit": "60000"}
+{ "1": {"accountName":"Purchases","credit":"43000","debit":"60000"}, "2": {"accountName":"Sales","credit":"43000","debit":"60000"},  "3":{"accountName":"Accounts Recv", "credit": "43000", "debit": "60000"},  "4":{"accountName":"Inventory", "credit": "43000", "debit": "60000"}}
