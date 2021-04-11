@@ -1,2 +1,2 @@
 
-[{accountName:'Purchases', credit: '43000', debit: '60000'},{accountName:'Sales', credit: '43000', debit: '60000'},{accountName:'Accounts Recv', credit: '43000', debit: '60000'}, {accountName:'Inventory', credit: '43000', debit: '60000'}]
+[{"accountName":"Purchases", "credit": "43000", "debit": "60000"},{"accountName":"Sales", "credit": "43000", "debit": "60000"},{"accountName":"Accounts Recv", "credit": "43000", "debit": "60000"}, {"accountName":"Inventory", "credit": "43000", "debit": "60000"}]
